@@ -1,0 +1,4 @@
+﻿  Window_semaphore.cpp
+E:\Training\Window_semaphore\Window_semaphore.cpp(8,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : see previous definition of 'INFINITY'
+  Window_semaphore.vcxproj -> E:\Training\Window_semaphore\x64\Debug\Window_semaphore.exe
